@@ -1,0 +1,25 @@
+{
+  "name": "f",
+  "version": "1.0.0",
+  "description": "My deliberate practice repository. Here i store tips & tricks for coding, links to interesting tasks, articles, whatever, and my comments. Also, here i store list of my weaknesses which i'm focused on in particular moment in particular field.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zelenkoff/F.git"
+  },
+  "keywords": [
+    "deliberate",
+    "practice",
+    "algorithms",
+    "DS"
+  ],
+  "author": "@zelenkoff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zelenkoff/F/issues"
+  },
+  "homepage": "https://github.com/zelenkoff/F#readme"
+}
