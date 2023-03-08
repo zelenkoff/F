@@ -11,7 +11,7 @@
 
 Last two approaches have `O(N−L)` (N is string.length and L is substring.length) time complexity and moderate space consumption even in the case of large sequences.
 
-**Tasks to practice**:**
+**Tasks to practice**:
 
 1. [Repeated DNA sequences](https://leetcode.com/problems/repeated-dna-sequences/);
 2. [Find all anagrams in a string](https://leetcode.com/problems/find-all-anagrams-in-a-string/);
